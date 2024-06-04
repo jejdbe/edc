@@ -1,0 +1,5 @@
+geographiclib==2.0
+matplotlib==3.5.1
+pandas==2.2.2
+pyshp==2.3.1
+seaborn==0.13.2

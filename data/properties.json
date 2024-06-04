@@ -1,0 +1,9 @@
+{
+  "cow_mass": 450,
+  "dung_mass_coefficient": 0.08,
+  "amount_of_biogas_per_kilogram_of_dung": 0.4,
+  "methane_share_in_biogas": 0.65,
+  "density_of_methane": 0.714,
+  "calorific_value_of_methane": 50200000,
+  "efficiency": 0.8
+}
